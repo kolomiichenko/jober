@@ -1,0 +1,38 @@
+{
+  "name": "jober",
+  "version": "1.0.0",
+  "description": "Simple quantitative timer with the ability to set the number of runs per day",
+  "homepage": "https://github.com/kolomiichenko/jober",
+  "author": {
+    "name"  : "Andrii Kolomiichenko",
+    "email" : "bboywilld@gmail.com"
+  },
+  "contributors": [
+    {
+      "name"  : "Andrii Kolomiichenko",
+      "email" : "bboywilld@gmail.com"
+    }
+  ],
+  "licenses": [
+    {
+      "type" : "MIT",
+      "url"  : "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "keywords": [
+    "jober",
+    "job",
+    "jobs",
+    "queue",
+    "task",
+    "tasks",
+    "tasker",
+    "timer"
+  ],
+  "repository": {
+    "type" : "git",
+    "url"  : "https://github.com/kolomiichenko/jober.git"
+  },
+  "_id": "jober@1.0.0",
+  "readmeFilename": "README.md"
+}
