@@ -1,6 +1,6 @@
 {
   "name": "jober",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple quantitative timer with the ability to set the number of runs per day",
   "homepage": "https://github.com/kolomiichenko/jober",
   "author": {
@@ -33,6 +33,6 @@
     "type" : "git",
     "url"  : "https://github.com/kolomiichenko/jober.git"
   },
-  "_id": "jober@1.0.0",
+  "_id": "jober@1.0.1",
   "readmeFilename": "README.md"
 }

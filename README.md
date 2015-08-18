@@ -11,15 +11,15 @@ var j = jober.init({
   jobs: [
     {
       jobsPerDay: 96,
-      onTick: function() {
-        myFunc('Hello world!');
+      onTick: function(job) {
+        myFunc('Hello world!', job);
       }
     }
   ]
 });
 
-function myFunc(str) {
-  console.log(str);
+function myFunc(str, obj) {
+  console.log(str, JSON.stringify(obj));
 }
 
 // Result will be print "Hello world!" 96 times per day (i.e. every 86400/96/60=15 minute)
